@@ -1,0 +1,1 @@
+This repositatory will contain all my practise questions in JavaScript from Leet code and hacker rank.
